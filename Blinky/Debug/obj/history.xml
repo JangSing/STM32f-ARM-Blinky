@@ -1,0 +1,11 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<history>
+   <processor signature="arm-none-eabi-gcc 4.8.1 mingw32 -mcpu=cortex-m4 -mthumb -mfpu=fpv4-sp-d16 -mfloat-abi=hard -g2 -Wall -O0 -c -DSTM32F429ZI -DSTM32F429xx -D__FPU_USED -DSTM32F429_439xx -I..\..\..\..\..\..\..\CoIDE\workspace -I..\..\..\..\..\..\..\CoIDE\workspace\Blinky -I..\..\..\..\..\..\..\CoIDE\workspace\Blinky\Config -I..\..\..\..\..\..\..\CoIDE\workspace\Blinky\app -I..\..\..\..\..\..\..\CoIDE\workspace\Blinky\Core">
+      <target file="system_stm32f4xx.o" lastModified="1554a403101">
+         <source file="..\..\..\Config\system_stm32f4xx.c" lastModified="15124247927"/>
+      </target>
+      <target file="startup_stm32f429xx.o" lastModified="1554a403077">
+         <source file="..\..\..\Config\startup_stm32f429xx.s" lastModified="15123253dc1"/>
+      </target>
+   </processor>
+</history>
